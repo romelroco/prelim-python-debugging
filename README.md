@@ -2,7 +2,7 @@
 
 This is part of the prelim examination.
 
-1. Get the repository to clone.
+1. Get the repository to clone ( branch name: feature-prelim-answers )
 2. Clone the repo from your account ( not on the original repo ) to your local computer and create a new branch with name:
    a. prelim_<subject_code>_<firstname_lastname>_branch
 3. Debug the python script: prelim_mdas_functions.ipynb
